@@ -16,4 +16,27 @@ Fast-food-fast is a food delivery service app for a restaurant that facilitates 
 ## Project Structure
 * **root:** The html folder contains all the html files of the project except the index file.
 
-* **static:** The static folder contains all the css and images for the project.   
+* **static:** The static folder contains all the css and images for the project.
+
+Clone the GitHub repo:
+ 
+`$ git clone https://github.com/nanfuka/fast-food-fast-UI.git`
+
+
+## GitHub Pages
+*Go to [fast-food-fast](https://nanfuka.github.io/fast-food-fast-uis/UI/index.html)
+
+## Contributors
+* nanfuka
+
+## How to Contribute to the project
+1. Download and install Git
+2. Clone the repo `https://github.com/nanfuka/fast-food-fast-uis/tree/feature`
+
+## ScreenShots
+![alt text](https://nanfuka.github.io/fast-food-fast-uis/UI/design/UI/index.png)
+![alt text](https://nanfuka.github.io/fast-food-fast-uis/UI/design/UI/login.png)
+![alt text](https://nanfuka.github.io/fast-food-fast-uis/UI/design/UI/signup.png)
+![alt text](https://nanfuka.github.io/fast-food-fast-uis/UI/design/UI/user_page.png)
+![alt text](https://nanfuka.github.io/fast-food-fast-uis/UI/design/UI/admin_dashboard.png)
+
