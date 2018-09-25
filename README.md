@@ -20,7 +20,7 @@ Fast-food-fast is a food delivery service app for a restaurant that facilitates 
 
 Clone the GitHub repo:
  
-`$ git clone https://github.com/nanfuka/fast-food-fast-UI.git`
+`$ git clone https://github.com/nanfuka/fast-food-fast-uis.git`
 
 
 ## GitHub Pages
