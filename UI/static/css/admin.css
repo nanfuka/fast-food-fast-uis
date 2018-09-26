@@ -20,6 +20,11 @@ button:active {
     position:relative;
     top:1px;
 } 
+#additem{
+    font-size: 200%;
+    text-align: center;
+    background-color: bisque;
+}
 
 #customers {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
