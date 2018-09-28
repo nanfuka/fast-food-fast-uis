@@ -6,8 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>fast food fast</title>
     <link rel="stylesheet" href="static/css/general.css">
+    <script type="text/javascript" src="static/js/script.js"></script>
 </head>
+<script type="text/javascript">
+//this function is userd to return a menu card on click of view menu button
+    function picture(){ 
+    var pic = "static/images/menu.jpg"
+    document.getElementById('bigpic').src = pic.replace();
+    document.getElementById('bigpic').style.display='block';
 
+    }
+
+
+</script>
 <body>
     <div class="first">
 
@@ -28,8 +39,10 @@
     <div class="pic">
         <p>
             <img src="static/images/lo.jpg" alt="Headshot photo" class="left" style="width:50%" />
-            <p class="imgcontent">WELCOME TO DEBBIE'S RESTOURANT <br> for the finest fast food in town.</p><br><br>
-            <button class="butto">view our menu</button><br><br><br><br><br><br>
+            <p class="imgcontent">WELCOME TO DEBBIE'S RESTAURANT <br> for the finest fast food in town.</p><br><br>
+            <button onclick="picture()">click here to view menu</button>
+            <img id="bigpic" src="bigpic" style="display:none;" />
+        
     </div>
 
     <div>
